@@ -8,7 +8,11 @@
 </template>
 
 <style>
+body{
+    background-color: blue;
+}
 main{
     width: 100%;
 }
+
 </style>
