@@ -1,5 +1,5 @@
-// import { createApp } from 'vue'
-import { createApp}  from 'https://unpkg.com/vue@3/dist/vue.global.js'
+import { createApp } from 'vue'
+// import { createApp}  from 'https://unpkg.com/vue@3/dist/vue.global.js'
 import App from './App.vue'
 // import Router from './router'
 // import axios from 'axios'
