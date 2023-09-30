@@ -9,7 +9,7 @@
 
 <style>
 body{
-    background-color: blue;
+    background-color: rgb(72, 191, 255);
 }
 main{
     width: 100%;
